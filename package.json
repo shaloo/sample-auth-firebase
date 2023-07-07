@@ -1,0 +1,22 @@
+{
+  "name": "latest-sample-auth-firebase",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "private": true,
+  "dependencies": {
+    "@arcana/auth": "1.0.5",
+    "core-js": "^3.8.3",
+    "firebase": "^9.22.1",
+    "firebaseui": "^6.0.2"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
