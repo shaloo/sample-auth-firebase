@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@arcana/auth": "1.0.8-beta.3",
+    "@arcana/auth": "1.0.8",
     "core-js": "^3.8.3",
     "firebase": "^9.22.1",
     "firebaseui": "^6.0.2"
